@@ -1,8 +1,7 @@
 
-let character = '';
-
 function generatePassword() {
   
+  let character = '';
   let answerOkay = false;
   let answerUp = false;
   let answerLow = false;
