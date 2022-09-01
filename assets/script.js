@@ -128,3 +128,5 @@ let generateBtn = document.querySelector("#generate");
 }
 
 generateBtn.addEventListener("click", writePassword);
+
+
